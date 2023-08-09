@@ -1,3 +1,3 @@
-# LGM-VIP-WEB-TASK4
+#AIM
 
 Creating a calculator using HTML, CSS & JavaScript
